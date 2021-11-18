@@ -1,0 +1,57 @@
+body {
+  font-family: 20px Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  background-color: rgba(107, 61, 1, 0.863);
+}
+
+img {
+  margin-left: 15px;
+}
+
+.quem-somos {
+  background-color: rgb(230, 218, 213);
+  color: rgb(32, 49, 65);
+  font: 17px Arial, Helvetica, sans-serif;
+}
+
+.margin {
+  /*margin-top: 20px; */
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.text-container {
+  padding-top: 5px 5px;
+}
+
+nav a {
+  font: 28px Arial, Helvetica, sans-serif;
+  color: white;
+  margin-right: 10px;
+}
+
+nav a:hover {
+  color: #ffffff;
+}
+
+.parceiros {
+  background-color: rgba(104, 73, 32, 0.863);
+  color: white;
+  font: 17px Arial, Helvetica, sans-serif;
+}
+
+.parceiros .margin {
+  padding: 5px;
+}
+
+.servicos {
+  background-color: rgb(230, 218, 213);
+  font: 17px Arial, Helvetica, sans-serif;
+}
+
+.bg-footer {
+  background-color: rgba(107, 61, 1, 0.863);
+  color: white;
+}
