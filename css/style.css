@@ -12,8 +12,12 @@ img {
 
 .quem-somos {
   background-color: rgb(230, 218, 213);
-  color: rgb(32, 49, 65);
-  font: 17px Arial, Helvetica, sans-serif;
+  color: rgb(23, 17, 60);
+  font: 18px Arial, Helvetica, sans-serif;
+}
+
+.imagens-circle {
+  margin-top: 50px;
 }
 
 .margin {
@@ -23,32 +27,50 @@ img {
 }
 
 .text-container {
-  padding-top: 5px 5px;
+  padding: 20px 10px;
 }
 
 nav a {
   font: 28px Arial, Helvetica, sans-serif;
   color: white;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 
 nav a:hover {
   color: #ffffff;
 }
 
+.col-lg-4 {
+  margin-top: 50px;
+}
+
 .parceiros {
-  background-color: rgba(104, 73, 32, 0.863);
+  background-color: rgba(5, 4, 22, 0.863);
   color: white;
-  font: 17px Arial, Helvetica, sans-serif;
+  font: 18px Arial, Helvetica, sans-serif;
 }
 
 .parceiros .margin {
   padding: 5px;
 }
 
+.col-md-2 {
+  padding: 15px;
+}
+
+.title-container {
+  font: 30px Arial, Helvetica, sans-serif;
+  background-color: rgba(104, 73, 32, 0.863);
+  color: white;
+}
+
 .servicos {
   background-color: rgb(230, 218, 213);
   font: 17px Arial, Helvetica, sans-serif;
+}
+
+.legenda {
+  color: rgb(23, 17, 60);
 }
 
 .bg-footer {
